@@ -1,0 +1,13 @@
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.exe.config
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.exe
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.pdb
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.AssemblyReference.cache
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.Form1.resources
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.Properties.Resources.resources
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.GenerateResource.cache
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.exe
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.pdb
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cyrus\source\repos\WindowsFormsAppAPI\obj\Debug\WindowsF.65991EA7.Up2Date
